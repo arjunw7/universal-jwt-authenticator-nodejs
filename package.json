@@ -21,7 +21,7 @@
     "bcrypt-nodejs": "0.0.3",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^3.5.9",
     "oracledb": "github:oracle/node-oracledb#v4.2.0"
   },
